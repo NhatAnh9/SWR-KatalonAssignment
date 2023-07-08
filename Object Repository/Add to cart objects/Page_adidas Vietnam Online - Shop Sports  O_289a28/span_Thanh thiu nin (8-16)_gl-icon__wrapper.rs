@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thanh thiu nin (8-16)_gl-icon__wrapper</name>
+   <tag></tag>
+   <elementGuidId>43d59660-dc6e-4518-bc11-2a47724f569b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button._mobile_search_toggle_4re0c_1 > span.gl-icon__wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div/div/header/div[2]/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4907ae93-163d-4b4d-97f1-7773f8b8b3f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gl-icon__wrapper</value>
+      <webElementGuid>c90705ff-f5e3-40c3-98be-d04f7ffea55e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>18722bda-ed1b-4ace-8ba5-7e26d243c912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;gl-app&quot;]/div[1]/div[@class=&quot;content-wrapper___1xMQS content-visibility-enabled___2aojn&quot;]/div[@class=&quot;sheet___2Zvfp page-content___2Bh3s&quot;]/div[1]/div[@class=&quot;_wrapper_1spbu_7 _sticky_1spbu_13&quot;]/div[@class=&quot;gl-app&quot;]/header[@class=&quot;_header_1spbu_25 _scroll_effect_74if6_1&quot;]/div[@class=&quot;_header_container_1spbu_30&quot;]/div[@class=&quot;_header_bottom_558sn_1&quot;]/div[@class=&quot;_auxiliary_menu_558sn_31&quot;]/button[@class=&quot;_mobile_search_toggle_4re0c_1&quot;]/span[@class=&quot;gl-icon__wrapper&quot;]</value>
+      <webElementGuid>402509dd-b01a-4f65-8ae0-fefb5fe5143a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div/div/header/div[2]/div/div[2]/button/span</value>
+      <webElementGuid>1708cb6f-160b-402c-a6e4-b292bb54732b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh thiếu niên (8-16)'])[1]/following::span[4]</value>
+      <webElementGuid>1649bc24-d49f-469c-a2d1-b50f868f252d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trẻ em (4-8)'])[1]/following::span[4]</value>
+      <webElementGuid>caf82f4f-5af0-47e7-a7e6-8aa2a4755339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Túi của bạn trống'])[1]/preceding::span[2]</value>
+      <webElementGuid>74b68a1f-7669-44d8-9e7c-6bb656046b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAM'])[2]/preceding::span[4]</value>
+      <webElementGuid>6fa7d545-2931-4b62-a862-bcbb80153217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>98cc9925-4519-4c8e-b08f-84732e31bbe8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TIP TC_gl-icon__wrapper</name>
+   <tag></tag>
+   <elementGuidId>f82affe2-120f-484f-ab3b-836880aaa11d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;account-portal-close&quot;] > span.gl-icon__wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-portal-modal']/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f009a40-0978-4db9-98ef-d04c5add4e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>c7f95ffe-1a43-4346-9879-2448e5dc08bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gl-icon__wrapper</value>
+      <webElementGuid>6f14cecf-0adf-4474-9392-eedc40ec1476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e0f39454-2c85-4203-8f02-f6bf7bf3e32b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-portal-modal&quot;)/div[@class=&quot;gl-modal gl-modal--mobile-full gl-modal--active gl-modal--full-mobile gl-modal--no-animation _account-portal-modal_1auzo_1 modal-position___NzK_w&quot;]/div[@class=&quot;gl-modal__dialog gl-modal__dialog--full-mobile&quot;]/button[@class=&quot;gl-modal__close&quot;]/span[@class=&quot;gl-icon__wrapper&quot;]</value>
+      <webElementGuid>ac8b0cb8-fe1a-43ec-b7a0-a1630a752556</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-portal-modal']/div/div/button/span</value>
+      <webElementGuid>28f8da01-41b4-4ba2-8a6a-c1c8f5aa6b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIẾP TỤC'])[1]/following::span[2]</value>
+      <webElementGuid>98307b5c-6675-46c3-8c5f-3832bad42e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm thông tin'])[1]/following::span[3]</value>
+      <webElementGuid>22d8d889-5b82-4751-a2a6-a88c22fa500f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join adiclub. GET INSTANT REWARDS.'])[1]/preceding::span[1]</value>
+      <webElementGuid>2c8a41a8-ac8b-4d9f-a616-a615b03c0310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not a member? Join adiClub for free and unlock these benefits immediately:'])[1]/preceding::span[3]</value>
+      <webElementGuid>0124f03d-4e73-4824-ac3f-8d75ea35e6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>31ec4f82-9e97-46ea-be3f-314f357074a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
